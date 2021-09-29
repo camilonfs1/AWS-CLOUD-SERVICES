@@ -28,7 +28,7 @@ Amazon API Gateway is a fully managed service that makes it easy for developers 
 
 API Gateway handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, CORS support, authorization and access control, throttling, monitoring, and API version management. API Gateway has no minimum fees or startup costs. You pay for the API calls you receive and the amount of data transferred out and, with the API Gateway tiered pricing model, you can reduce your cost as your API usage scales.
 
-![](../src/images/Mobile1.png)
+![](https://github.com/camilonfs1/AWS-CLOUD-SERVICES/blob/main/src/images/Mobile1.PNG)
 
 ## Cors for a Rest Api
 > Cors (Cross-origin resource sharing) is a browser security feature that restrict cross-origin HTTP requests thatt are initiated from scripts running in the browser. If your APIs resources receive nom-simple cross-origin HTTP requests, you need to enable CORS support.
