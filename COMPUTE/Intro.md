@@ -14,3 +14,8 @@
 # EC2 Elastic Compute Cloud
 
 ## [EC2 Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+
+
+## EC2 auto Scaling
+
+# Elastic Cloud Balancing ELB

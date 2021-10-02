@@ -12,3 +12,6 @@
 | MemoryDB for Redis           | Fully managed Kubernetes service.                                               |  In-memory 
 | DocumentDB (MongoDB compatibility) | Content management, catalogs, user profiles                                              | Document
 | Keyspaces (Apache casandra) | High scale industrial apps for equipment maintenance, fleet management, and route optimization  | Graph
+
+
+# AWS IAM 
